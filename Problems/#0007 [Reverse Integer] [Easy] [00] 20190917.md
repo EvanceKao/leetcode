@@ -1,5 +1,9 @@
 # #0007 [Reverse Integer] [Easy]
 
+Related Topics: `Math`
+
+[See Problem](https://leetcode.com/problems/reverse-integer/)
+
 ## Submission Detail
 
 Submitted: 2019/09/17

@@ -6,6 +6,20 @@ Submitted: 2019/09/17
 
 Detail URL: https://leetcode.com/submissions/detail/261618438/
 
+Runtime: 152 ms
+
+Runtime Rank: less than 3.17 %
+
+Memory Usage: 26.7 MB
+
+Memory Usage Rank: less than 2.27 %
+
+## Problem Solving Mode of Mind
+
+### English
+
+### 繁體中文
+
 ## Submitted Code
 
 Language: csharp

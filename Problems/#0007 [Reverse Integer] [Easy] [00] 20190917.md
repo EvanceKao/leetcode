@@ -16,7 +16,7 @@ Runtime Rank: 10.91 %
 
 Memory Usage: 14.2 MB
 
-Memory Usage Rank: less than 4.17 %
+Memory Usage Rank:
 
 ## Problem Solving Mode of Mind
 
@@ -43,7 +43,8 @@ public class Solution {
         int.TryParse(tempResult, out int result);
         return (x < 0 ? -result : result);
     }
-}```
+}
+```
 
 ---
 

@@ -12,11 +12,11 @@ Detail URL: https://leetcode.com/submissions/detail/261618438/
 
 Runtime: 152 ms
 
-Runtime Rank: less than 3.17 %
+Runtime Rank:
 
 Memory Usage: 26.7 MB
 
-Memory Usage Rank: less than 2.27 %
+Memory Usage Rank:
 
 ## Problem Solving Mode of Mind
 
